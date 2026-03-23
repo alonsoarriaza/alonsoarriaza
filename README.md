@@ -3,7 +3,7 @@
 ### 👨‍💻 Estudiante de Desarrollo de Aplicaciones Web (DAW)
 Soy un desarrollador en formación con una mentalidad proactiva y un alto nivel de exigencia personal. Actualmente, me encuentro en la fase final de mi grado en Desarrollo de Aplicaciones Web (DAW) y he tomado la decisión firme de gestionar mi propio convenio de prácticas de forma externa.
 
-He rechazado las opciones asignadas inicialmente por mi centro educativo al detectar que no ofrecían un entorno de aprendizaje real ni la tutorización técnica que un futuro profesional requiere. Mi objetivo es integrarme en una empresa de referencia donde pueda enfrentarme a proyectos de gran envergadura y ambición tecnológica.
+ Mi objetivo es integrarme en una empresa de referencia donde pueda enfrentarme a proyectos de gran envergadura y ambición tecnológica.
 
 Aporto una madurez profesional consolidada tras años de experiencia como Segundo Encargado, gestionando equipos y logística en entornos de alta presión. Esta etapa me ha dotado de una capacidad de organización, responsabilidad y resolución de problemas que ahora vuelco totalmente en el desarrollo de software de alto nivel. Busco un equipo que valore la calidad del código, el aprendizaje continuo y el compromiso profesional
 
