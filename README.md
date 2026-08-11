@@ -25,15 +25,13 @@ Soy un desarrollador de aplicaciones webs con un enfoque analítico, estructurad
 
 ---
 
-Experiencia Profesional
-🔹 Full-Stack Developer (Prácticas FCT) | Coanda Technologies (Mayo 2026 — Presente)
-Desarrollo de Sistema de Trazabilidad QR (Despliegue Multi-sede): Diseño e implantación de un sistema integral para la gestión de activos. Construcción de un backend robusto en Java 21 con Spring Boot y seguridad JWT, junto a un frontend interactivo en React y Tailwind con escáner QR. Ejecución de la migración automatizada de 15.000 registros desde el ERP ADV hacia una base de datos MySQL.
+### 💼 Experiencia Profesional
 
-Despliegue de Infraestructura y Sistemas MyQ: Sincronización avanzada de usuarios vía LDAP y despliegue de sistemas de impresión corporativos. Configuración de servidor SMTP a través de Microsoft Exchange Online para entornos EntraID y establecimiento de políticas de escaneo de carpetas mediante GPO.
-
-Automatización y Flujos de Trabajo Inteligentes: Integración de flujos de trabajo en plataformas documentales (Therefore y Solpheo) y programación en Google Apps Script para erradicar tareas repetitivas. Adaptación de arquitecturas técnicas para desarrollar herramientas de prospección y optimizar el funnel de captación de leads.
-
-Ciberseguridad y Gestión de Sistemas Corporativos: Administración operativa y resolución de incidencias críticas en el ERP/CRM ADV. Ejecución de auditorías de ciberseguridad corporativa y monitorización activa mediante la plataforma Ciberguardian, coordinando integraciones a nivel de infraestructura técnica.
+#### 🔹 **Full-Stack Developer (Prácticas FCT)** | Coanda Technologies *(Mayo 2026 — Presente)*
+* **Desarrollo de Sistema de Trazabilidad QR (Despliegue Multi-sede)**: Diseño e implantación de un sistema integral para la gestión de activos. Construcción de un backend robusto en Java 21 con Spring Boot y seguridad JWT, junto a un frontend interactivo en React y Tailwind con escáner QR. Ejecución de la migración automatizada de 15.000 registros desde el ERP ADV hacia una base de datos MySQL.
+* **Despliegue de Infraestructura y Sistemas MyQ**: Sincronización avanzada de usuarios vía LDAP y despliegue de sistemas de impresión corporativos. Configuración de servidor SMTP a través de Microsoft Exchange Online para entornos EntraID y establecimiento de políticas de escaneo de carpetas mediante GPO.
+* **Automatización y Flujos de Trabajo Inteligentes**: Integración de flujos de trabajo en plataformas documentales (Therefore y Solpheo) y programación en Google Apps Script para erradicar tareas repetitivas. Adaptación de arquitecturas técnicas para desarrollar herramientas de prospección y optimizar el funnel de captación de leads.
+* **Ciberseguridad y Gestión de Sistemas Corporativos**: Administración operativa y resolución de incidencias críticas en el ERP/CRM ADV. Ejecución de auditorías de ciberseguridad corporativa y monitorización activa mediante la plataforma Ciberguardian, coordinando integraciones a nivel de infraestructura técnica.
 
 #### 🔹 **Dependiente** | Hollister CO *(Junio 2025 — Enero 2025)*
 * **Atención al Cliente**: Asesoramiento y venta personalizada aplicando técnicas de escucha activa para entender requisitos del cliente (valores transferibles al análisis de requisitos de software).
