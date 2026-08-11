@@ -8,7 +8,7 @@
 ### 🚀 Sobre Mí
 Mi pasión por la tecnología comenzó desde muy joven. Lo que empezó como una curiosidad insaciable por saber cómo funcionaban las cosas por dentro me llevó a pasar tardes enteras montando, desmontando y diagnosticando ordenadores, instalando sistemas operativos y trasteando con todo tipo de hardware. Ese deseo constante de experimentar y resolver problemas técnicos fue la chispa que me impulsó a enfocar mi futuro profesional hacia el mundo del desarrollo de software y las infraestructuras de red.
 
-Soy un desarrollador de software con un enfoque analítico, estructurado y orientado al detalle, priorizando siempre la calidad del código, el rendimiento del sistema y la adopción de las mejores prácticas de la industria. Mi compromiso está centrado en el aprendizaje continuo y la adaptabilidad ante nuevos entornos, buscando no solo resolver requerimientos complejos de programación, sino también aportar soluciones innovadoras que optimicen la eficiencia operativa y generen valor real al negocio.
+Soy un desarrollador de aplicaciones webs con un enfoque analítico, estructurado y orientado al detalle, priorizando siempre la calidad del código, el rendimiento del sistema y la adopción de las mejores prácticas de la industria. Mi compromiso está centrado en el aprendizaje continuo y la adaptabilidad ante nuevos entornos, buscando no solo resolver requerimientos complejos de programación, sino también aportar soluciones innovadoras que optimicen la eficiencia operativa y generen valor real al negocio.
 
 ---
 
@@ -25,13 +25,15 @@ Soy un desarrollador de software con un enfoque analítico, estructurado y orien
 
 ---
 
-### 💼 Experiencia Profesional
+Experiencia Profesional
+🔹 Full-Stack Developer (Prácticas FCT) | Coanda Technologies (Mayo 2026 — Presente)
+Desarrollo de Sistema de Trazabilidad QR (Despliegue Multi-sede): Diseño e implantación de un sistema integral para la gestión de activos. Construcción de un backend robusto en Java 21 con Spring Boot y seguridad JWT, junto a un frontend interactivo en React y Tailwind con escáner QR. Ejecución de la migración automatizada de 15.000 registros desde el ERP ADV hacia una base de datos MySQL.
 
-#### 🔹 **Becario** | Coanda Technologies Solutions *(Mayo 2025 — Presente)*
-* **Diseño y Desarrollo de Inventario y Trazabilidad**: Implementé un sistema de control de stock y trazabilidad mediante códigos QR, reduciendo horas de trabajo manual y optimizando la visibilidad de activos entre departamentos.
-* **Automatización de Leads y Captación**: Adapté arquitecturas de proyectos finales para crear herramientas de prospección automatizada y optimizar el funnel de conversión digital.
-* **Flujos de Trabajo Inteligentes y Scripts**: Programación de integraciones en Google Apps Script para automatizar tareas repetitivas y gestión de flujos de trabajo inteligentes en plataformas documentales como **Therefore**.
-* **Ciberseguridad y Gestión**: Análisis interno e integración de plataformas documentales e incidencias como **Solpheo** y **ADV** (ERP/CRM), junto con la monitorización de soluciones de ciberseguridad con **Ciberguardian**.
+Despliegue de Infraestructura y Sistemas MyQ: Sincronización avanzada de usuarios vía LDAP y despliegue de sistemas de impresión corporativos. Configuración de servidor SMTP a través de Microsoft Exchange Online para entornos EntraID y establecimiento de políticas de escaneo de carpetas mediante GPO.
+
+Automatización y Flujos de Trabajo Inteligentes: Integración de flujos de trabajo en plataformas documentales (Therefore y Solpheo) y programación en Google Apps Script para erradicar tareas repetitivas. Adaptación de arquitecturas técnicas para desarrollar herramientas de prospección y optimizar el funnel de captación de leads.
+
+Ciberseguridad y Gestión de Sistemas Corporativos: Administración operativa y resolución de incidencias críticas en el ERP/CRM ADV. Ejecución de auditorías de ciberseguridad corporativa y monitorización activa mediante la plataforma Ciberguardian, coordinando integraciones a nivel de infraestructura técnica.
 
 #### 🔹 **Dependiente** | Hollister CO *(Junio 2025 — Enero 2025)*
 * **Atención al Cliente**: Asesoramiento y venta personalizada aplicando técnicas de escucha activa para entender requisitos del cliente (valores transferibles al análisis de requisitos de software).
