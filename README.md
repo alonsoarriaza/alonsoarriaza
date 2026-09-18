@@ -27,29 +27,40 @@ Soy un desarrollador de aplicaciones webs con un enfoque analítico, estructurad
 
 ### 💼 Experiencia Profesional
 
-#### 🔹 **Full-Stack Developer (Prácticas FCT)** | Coanda Technologies *(Mayo 2026 — Presente)*
-* **Desarrollo de Sistema de Trazabilidad QR (Despliegue Multi-sede)**: Diseño e implantación de un sistema integral para la gestión de activos. Construcción de un backend robusto en Java 21 con Spring Boot y seguridad JWT, junto a un frontend interactivo en React y Tailwind con escáner QR. Ejecución de la migración automatizada de 15.000 registros desde el ERP ADV hacia una base de datos MySQL.
-* **Despliegue de Infraestructura y Sistemas MyQ**: Sincronización avanzada de usuarios vía LDAP y despliegue de sistemas de impresión corporativos. Configuración de servidor SMTP a través de Microsoft Exchange Online para entornos EntraID y establecimiento de políticas de escaneo de carpetas mediante GPO.
-* **Automatización y Flujos de Trabajo Inteligentes**: Integración de flujos de trabajo en plataformas documentales (Therefore y Solpheo) y programación en Google Apps Script para erradicar tareas repetitivas. Adaptación de arquitecturas técnicas para desarrollar herramientas de prospección y optimizar el funnel de captación de leads.
-* **Ciberseguridad y Gestión de Sistemas Corporativos**: Administración operativa y resolución de incidencias críticas en el ERP/CRM ADV. Ejecución de auditorías de ciberseguridad corporativa y monitorización activa mediante la plataforma Ciberguardian, coordinando integraciones a nivel de infraestructura técnica.
+🔹 Full-Stack Developer | Coanda Technologies (Mayo 2025 — Presente)
+Arquitectura y desarrollo end-to-end de una plataforma Full-Stack de gestión de inventarios y trazabilidad QR multi-sede. Migración masiva de +15.000 registros desde ERP (ADV), diseño de API REST con Spring Security/JWT y optimización para acceso móvil y PDA industriales.
 
-#### 🔹 **Dependiente** | Hollister CO *(Junio 2025 — Enero 2025)*
-* **Atención al Cliente**: Asesoramiento y venta personalizada aplicando técnicas de escucha activa para entender requisitos del cliente (valores transferibles al análisis de requisitos de software).
-* **Control de Inventario**: Recepción, etiquetado y organización operativa del stock físico, asegurando que coincidiera exactamente con el sistema informático.
+Ingeniería de datos y automatización con IA. Motor de clasificación automatizada de miles de clientes mediante pipeline de normalización, correspondencia difusa y orquestación de agentes de IA. Adoptado como herramienta operativa interna.
 
-#### 🔹 **Segundo Encargado** | JVZ Vamutex *(Diciembre 2023 — Mayo 2025)*
-* **Liderazgo y Coordinación**: Gestión operativa de personal, asignación de turnos y toma de decisiones de inventario bajo presión.
-* **Logística Integral**: Control de stock y cuadres diarios de almacén para asegurar la exactitud del stock en el sistema de ventas.
+Integración de sistemas empresariales y DevOps. Automatizaciones a medida con Google Apps Script y agentes de IA. Gestión de plataformas críticas: Therefore, Solpheo, ADV (ERP/CRM), Active Directory, Entra ID, MyQ y Ciberguardian.
 
-#### 🔹 **Dependiente Premium** | FC&CO *(Enero 2023 — Noviembre 2023)*
-* **Marcas Premium**: Ventas y asesoramiento personalizado representando firmas de primer nivel (Armani, Calvin Klein, Lacoste, Hugo Boss).
-* **Gestión de Stock**: Recepción y mantenimiento del área de venta bajo estrictos estándares estéticos de exclusividad.
+🔹 Dependiente | Hollister CO (Enero 2025 — Mayo 2025)
+Atención al cliente y ventas, asesoramiento personalizado buscando siempre la mejor experiencia de compra. Aprendí que escuchar activamente al usuario es tan crítico en una tienda como al recoger requisitos para un desarrollo de software.
 
-#### 🔹 **Becario (Erasmus+)** | Grillo Telemático (Italia) *(Abril 2022 — Julio 2022)*
-* **Sistemas Comerciales**: Configuración, ensamblaje y despliegue de terminales TPV y hardware periférico a pie de tienda y en remoto.
-* **Soporte Técnico**: Diagnóstico rápido de incidencias técnicas en entornos de alta presión.
+Gestión operativa de producto, recepción, etiquetado y organización del almacén. Aquí igualamos las imágenes de inventario con el stock real, manteniendo el orden necesario para que el flujo de trabajo nunca se detenga.
 
----
+Adaptabilidad en entornos dinámicos, trabajo constante en equipo y gestión de transacciones en un entorno de alta afluencia, asegurando que cada detalle técnico del proceso de venta se ejecute con precisión.
+
+🔹 Segundo Encargado | JVZ Vamutex (Noviembre 2023 — Enero 2025)
+Liderazgo de equipo y gestión operativa, aprendí a coordinar turnos y personal, entendiendo que el éxito de un equipo depende de una buena comunicación y de estar presente cuando surgen los imprevistos.
+
+Gestión logística integral, desde la recepción de mercancía hasta el control de inventario. Aquí igualamos las imágenes del stock físico con el sistema, asegurando que los números siempre cuadren antes de abrir la persiana.
+
+Resolución de conflictos y toma de decisiones, mi paso por JVZ me dio la perspectiva necesaria para entender que detrás de cada dato logístico hay un equipo de personas trabajando para que todo funcione.
+
+🔹 Dependiente Primer nivel | FC&CO (Enero 2023 — Noviembre 2023)
+Asesoramiento de moda personalizado y atención al cliente de alto nivel, representando firmas internacionales de primer nivel (Armani, Calvin Klein, Lacoste, Hugo Boss, etc.) y garantizando una experiencia de compra exclusiva.
+
+Gestión y control de inventario de producto premium, supervisando la recepción de stock y el mantenimiento del área de venta bajo estrictos estándares estéticos de las marcas.
+
+Consecución de objetivos de venta individuales y colectivos mediante técnicas de venta consultiva y fidelización de clientes habituales.
+
+🔹 Becario | Grillo Telemático (Abril 2022 — Julio 2022)
+Despliegue y configuración de sistemas TPV en entornos comerciales, aquí aprendí que, si algo puede fallar en el momento menos oportuno, lo hará, y que la mejor solución es una planificación técnica a prueba de balas.
+
+Soporte técnico tanto remoto como a pie de tienda, resolví incidencias bajo presión, confirmando que la paciencia y la capacidad analítica son tan importantes como el código mismo al lidiar con hardware caprichoso.
+
+Integración de hardware y periféricos, fue mi bautismo de fuego en el mundo real, donde comprendí que la configuración en producción es el pilar que mantiene el negocio en marcha.
 
 ### 🚀 Proyectos Destacados
 
