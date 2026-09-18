@@ -27,40 +27,40 @@ Soy un desarrollador de aplicaciones webs con un enfoque analítico, estructurad
 
 ### 💼 Experiencia Profesional
 
-🔹 Full-Stack Developer | Coanda Technologies (Mayo 2025 — Presente)
-Arquitectura y desarrollo end-to-end de una plataforma Full-Stack de gestión de inventarios y trazabilidad QR multi-sede. Migración masiva de +15.000 registros desde ERP (ADV), diseño de API REST con Spring Security/JWT y optimización para acceso móvil y PDA industriales.
+<h4>🔹 <strong>Full-Stack Developer</strong> | Coanda Technologies <em>(Mayo 2025 — Presente)</em></h4>
+<ul>
+  <li><strong>Arquitectura y desarrollo end-to-end</strong> de una plataforma Full-Stack de gestión de inventarios y trazabilidad QR multi-sede. Migración masiva de +15.000 registros desde ERP (ADV), diseño de API REST con Spring Security/JWT y optimización para acceso móvil y PDA industriales.</li>
+  <li><strong>Ingeniería de datos y automatización con IA</strong>. Motor de clasificación automatizada de miles de clientes mediante pipeline de normalización, correspondencia difusa y orquestación de agentes de IA. Adoptado como herramienta operativa interna.</li>
+  <li><strong>Integración de sistemas empresariales y DevOps</strong>. Automatizaciones a medida con Google Apps Script y agentes de IA. Gestión de plataformas críticas: Therefore, Solpheo, ADV (ERP/CRM), Active Directory, Entra ID, MyQ y Ciberguardian.</li>
+</ul>
 
-Ingeniería de datos y automatización con IA. Motor de clasificación automatizada de miles de clientes mediante pipeline de normalización, correspondencia difusa y orquestación de agentes de IA. Adoptado como herramienta operativa interna.
+<h4>🔹 <strong>Dependiente</strong> | Hollister CO <em>(Enero 2025 — Mayo 2025)</em></h4>
+<ul>
+  <li><strong>Atención al cliente y ventas</strong>, asesoramiento personalizado buscando siempre la mejor experiencia de compra. Aprendí que escuchar activamente al usuario es tan crítico en una tienda como al recoger requisitos para un desarrollo de software.</li>
+  <li><strong>Gestión operativa de producto</strong>, recepción, etiquetado y organización del almacén. Aquí igualamos las imágenes de inventario con el stock real, manteniendo el orden necesario para que el flujo de trabajo nunca se detenga.</li>
+  <li><strong>Adaptabilidad en entornos dinámicos</strong>, trabajo constante en equipo y gestión de transacciones en un entorno de alta afluencia, asegurando que cada detalle técnico del proceso de venta se ejecute con precisión.</li>
+</ul>
 
-Integración de sistemas empresariales y DevOps. Automatizaciones a medida con Google Apps Script y agentes de IA. Gestión de plataformas críticas: Therefore, Solpheo, ADV (ERP/CRM), Active Directory, Entra ID, MyQ y Ciberguardian.
+<h4>🔹 <strong>Segundo Encargado</strong> | JVZ Vamutex <em>(Noviembre 2023 — Enero 2025)</em></h4>
+<ul>
+  <li><strong>Liderazgo de equipo y gestión operativa</strong>, aprendí a coordinar turnos y personal, entendiendo que el éxito de un equipo depende de una buena comunicación y de estar presente cuando surgen los imprevistos.</li>
+  <li><strong>Gestión logística integral</strong>, desde la recepción de mercancía hasta el control de inventario. Aquí igualamos las imágenes del stock físico con el sistema, asegurando que los números siempre cuadren antes de abrir la persiana.</li>
+  <li><strong>Resolución de conflictos y toma de decisiones</strong>, mi paso por JVZ me dio la perspectiva necesaria para entender que detrás de cada dato logístico hay un equipo de personas trabajando para que todo funcione.</li>
+</ul>
 
-🔹 Dependiente | Hollister CO (Enero 2025 — Mayo 2025)
-Atención al cliente y ventas, asesoramiento personalizado buscando siempre la mejor experiencia de compra. Aprendí que escuchar activamente al usuario es tan crítico en una tienda como al recoger requisitos para un desarrollo de software.
+<h4>🔹 <strong>Dependiente Primer nivel</strong> | FC&CO <em>(Enero 2023 — Noviembre 2023)</em></h4>
+<ul>
+  <li><strong>Asesoramiento de moda personalizado</strong> y atención al cliente de alto nivel, representando firmas internacionales de primer nivel (Armani, Calvin Klein, Lacoste, Hugo Boss, etc.) y garantizando una experiencia de compra exclusiva.</li>
+  <li><strong>Gestión y control de inventario</strong> de producto premium, supervisando la recepción de stock y el mantenimiento del área de venta bajo estrictos estándares estéticos de las marcas.</li>
+  <li><strong>Consecución de objetivos de venta</strong> individuales y colectivos mediante técnicas de venta consultiva y fidelización de clientes habituales.</li>
+</ul>
 
-Gestión operativa de producto, recepción, etiquetado y organización del almacén. Aquí igualamos las imágenes de inventario con el stock real, manteniendo el orden necesario para que el flujo de trabajo nunca se detenga.
-
-Adaptabilidad en entornos dinámicos, trabajo constante en equipo y gestión de transacciones en un entorno de alta afluencia, asegurando que cada detalle técnico del proceso de venta se ejecute con precisión.
-
-🔹 Segundo Encargado | JVZ Vamutex (Noviembre 2023 — Enero 2025)
-Liderazgo de equipo y gestión operativa, aprendí a coordinar turnos y personal, entendiendo que el éxito de un equipo depende de una buena comunicación y de estar presente cuando surgen los imprevistos.
-
-Gestión logística integral, desde la recepción de mercancía hasta el control de inventario. Aquí igualamos las imágenes del stock físico con el sistema, asegurando que los números siempre cuadren antes de abrir la persiana.
-
-Resolución de conflictos y toma de decisiones, mi paso por JVZ me dio la perspectiva necesaria para entender que detrás de cada dato logístico hay un equipo de personas trabajando para que todo funcione.
-
-🔹 Dependiente Primer nivel | FC&CO (Enero 2023 — Noviembre 2023)
-Asesoramiento de moda personalizado y atención al cliente de alto nivel, representando firmas internacionales de primer nivel (Armani, Calvin Klein, Lacoste, Hugo Boss, etc.) y garantizando una experiencia de compra exclusiva.
-
-Gestión y control de inventario de producto premium, supervisando la recepción de stock y el mantenimiento del área de venta bajo estrictos estándares estéticos de las marcas.
-
-Consecución de objetivos de venta individuales y colectivos mediante técnicas de venta consultiva y fidelización de clientes habituales.
-
-🔹 Becario | Grillo Telemático (Abril 2022 — Julio 2022)
-Despliegue y configuración de sistemas TPV en entornos comerciales, aquí aprendí que, si algo puede fallar en el momento menos oportuno, lo hará, y que la mejor solución es una planificación técnica a prueba de balas.
-
-Soporte técnico tanto remoto como a pie de tienda, resolví incidencias bajo presión, confirmando que la paciencia y la capacidad analítica son tan importantes como el código mismo al lidiar con hardware caprichoso.
-
-Integración de hardware y periféricos, fue mi bautismo de fuego en el mundo real, donde comprendí que la configuración en producción es el pilar que mantiene el negocio en marcha.
+<h4>🔹 <strong>Becario</strong> | Grillo Telemático <em>(Abril 2022 — Julio 2022)</em></h4>
+<ul>
+  <li><strong>Despliegue y configuración</strong> de sistemas TPV en entornos comerciales, aquí aprendí que, si algo puede fallar en el momento menos oportuno, lo hará, y que la mejor solución es una planificación técnica a prueba de balas.</li>
+  <li><strong>Soporte técnico</strong> tanto remoto como a pie de tienda, resolví incidencias bajo presión, confirmando que la paciencia y la capacidad analítica son tan importantes como el código mismo al lidiar con hardware caprichoso.</li>
+  <li><strong>Integración de hardware y periféricos</strong>, fue mi bautismo de fuego en el mundo real, donde comprendí que la configuración en producción es el pilar que mantiene el negocio en marcha.</li>
+</ul>
 
 ### 🚀 Proyectos Destacados
 
